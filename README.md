@@ -1,22 +1,30 @@
-# Bookify
+# JavaClass Project9
 
-Bookify is a Java program that simulates a library environment, offering book management and generation features like book creation and triangular random number generator. It's versatile for educational and experimental purposes.
+## Table Of Contents
+- Description
+- Features
+- Contributing
+- Project Structure
 
-## Table of Contents
+## 📖 Description
+Description: This Java program includes a main class Chapeter9 that generates random book titles. It also includes a method for generating triangular random numbers, which is used to determine the length of the book titles. The program showcases the creation of book objects with randomly generated titles.
 
-- [About](#about)
-- [Features](#features)
-- [Imports](#Imports)
-- [Rating: 6/10](#Rating)
+## 🚀 Features
+1. Book Title Generation:
+    - Creates a Book object with a randomly generated title.
+    - Converts the generated title to title case for better readability.
+2. Triangular Random Number Generation:
+    - Generates a triangular random number within a specified range.
+    - The method can be used for various random number generation purposes, including determining the length of the book title.
+3. Random Book Library:
+    - Initializes a simple library array to store book objects.
 
-# About
+## 🤝 Contributing
+1. Fork the Repository
+    - Click on the Fork button at the top right corner of the repository page to create your own fork of the repository.
+2. Create a Pull Request
+    - Navigate to the original repository and create a pull request to merge your changes into the main branch.
 
-Bookify is a Java program that simulates a library environment, offering book management and generation features. It allows for book creation, generating random titles with varying lengths and characters, and generating triangular random numbers using a triangular distribution. This tool is versatile for educational and experimental purposes, showcasing the essence of book management and statistical randomness.
-
-# Features
-
-Bookify is a versatile Java program that allows users to create books, generate random titles, and use triangular random numbers for modeling uncertainty or variability. Users can input details like title, author, genre, and more to craft fictional worlds and narratives. The program also uses a triangular distribution to generate random numbers, which can be used for various purposes like simulating dice rolls or predicting stock prices. Bookify is also useful for education and experimentation, allowing students to explore book management concepts and researchers to analyze statistical randomness. Overall, Bookify bridges the gap between literary imagination and mathematical exploration, inspiring countless stories and discoveries.
-
-# Imports
-
-Scanner, Random
+## 📂 Project Structure
+    - 📂 JavaClass Project9
+        - Chapter9.java
